@@ -1,0 +1,10 @@
+{
+    "name": "bootstrap-slider",
+    "description": "bootstrap-slider packaged for meteor",
+    "homepage": "https://github.com/nate-strauser/meteor-bootstrap-slider",
+    "author": "Nate Strauser",
+    "version": "0.1.0",
+    "git": "https://github.com/nate-strauser/meteor-bootstrap-slider.git",
+    "packages": {
+    }
+}
